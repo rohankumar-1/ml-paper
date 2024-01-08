@@ -1,0 +1,3 @@
+./rnn/shakespeare.txt
+./basic_mnist/data/*
+.ipynb*
